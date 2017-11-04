@@ -4,8 +4,7 @@
 # available in the usr/share/nginx/html/bp folder.
 
 # Set up initial variables
-#release_note=/usr/share/nginx/html
-release_note=/adop-nginx/resources/release_note
+release_note=/usr/share/nginx/html
 release_note_folder=${release_note}/bp
 n=0;
 
